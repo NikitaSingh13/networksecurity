@@ -1,4 +1,0 @@
-mongodv drivers url :-> mongodb+srv://nikita:Niki#1312@cluster0.njn5zss.mongodb.net/?appName=Cluster0
-
-yaml:
-certifi:
